@@ -1,0 +1,97 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+*.swp.*
+.DS_Store
+.atom/
+.bubbles
+.buildlog
+.history
+.svn/
+.metals/
+AndroidManifest.xml_old
+Thumbs.db
+
+# IntelliJ / IDEA
+*.iml
+.idea/
+.idea/libraries/
+.idea/workspace.xml
+.idea/usage.statistics.xml
+*.iws
+
+# Visual Studio Code
+.vscode/
+.vscode/settings.json
+.vscode/launch.json
+
+# Flutter/Dart
+.packages
+.pub/
+.build/
+.dart_tool/
+.pub-cache/
+build/
+flutter_*.png
+linked_issuses.txt
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/key.properties
+android/local.properties
+
+# iOS
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/build/
+
+# macOS
+macos/Pods/
+macos/build/
+
+# Linux
+linux/flutter/ephemeral
+linux/flutter/generated_plugin_registrant.*
+linux/myllm/
+
+# Windows
+windows/flutter/ephemeral
+windows/flutter/generated_plugin_registrant.*
+windows/runner/GeneratedPluginRegistrant.*
+
+# Web
+web/fonts
+web/icons
+
+# Generated files
+*.freezed.dart
+*.g.dart
+*.gr.dart
+*.mocks.dart
+*.pb.dart
+*.pbenum.dart
+*.pbjson.dart
+
+# Coverage
+coverage/
+test/.test_runner_cache/
+
+# Firebase / FlutterFire
+**/google-services.json
+**/GoogleService-Info.plist
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Sentry
+sentry.properties
+
+# Env
+.env
+.env.local
+.env.production
+*.env
