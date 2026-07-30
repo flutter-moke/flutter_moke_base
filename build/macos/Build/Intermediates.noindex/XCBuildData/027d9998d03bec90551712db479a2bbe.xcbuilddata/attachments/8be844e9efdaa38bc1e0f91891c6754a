@@ -1,0 +1,49 @@
+{
+  "" : {
+    "diagnostics" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/Runner-primary.dia",
+    "emit-module-dependencies" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/Runner-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/Runner-primary-emit-module.dia",
+    "pch" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/Runner-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/Runner-primary.swiftdeps"
+  },
+  "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Volumes/Developer/flutter_moke_base/macos/Flutter/GeneratedPluginRegistrant.swift" : {
+    "const-values" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.swiftconstvalues",
+    "dependencies" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.d",
+    "diagnostics" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.o",
+    "llvm-bc" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.bc",
+    "object" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.o",
+    "swift-dependencies" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant.swiftdeps",
+    "swiftmodule" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/GeneratedPluginRegistrant~partial.swiftmodule"
+  },
+  "/Volumes/Developer/flutter_moke_base/macos/Runner/AppDelegate.swift" : {
+    "const-values" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Volumes/Developer/flutter_moke_base/macos/Runner/MainFlutterWindow.swift" : {
+    "const-values" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.swiftconstvalues",
+    "dependencies" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.d",
+    "diagnostics" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.dia",
+    "index-unit-output-path" : "/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.o",
+    "llvm-bc" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.bc",
+    "object" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.o",
+    "swift-dependencies" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow.swiftdeps",
+    "swiftmodule" : "/Volumes/Developer/flutter_moke_base/build/macos/Build/Intermediates.noindex/Runner.build/Debug/Runner.build/Objects-normal/x86_64/MainFlutterWindow~partial.swiftmodule"
+  }
+}
